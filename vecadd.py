@@ -13,3 +13,4 @@ if __name__ == "__main__":
     result = dot_product(vector_a, vector_b)
     print(f"The dot product is: {result}")
 
+# Edited by Priyanshu Kumar
